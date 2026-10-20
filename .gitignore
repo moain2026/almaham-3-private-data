@@ -1,0 +1,7 @@
+# secrets never
+.env
+*.keystore
+*.jks
+# scratch
+__pycache__/
+*.tmp
