@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-21 | `logs_archive/ft5augv2loc_ft6/` | ft5augv2loc_ft6 | 0 ملف، 4.0K | — | وكيل |
 | 2026-10-21 | `weights_archive/ft5augv2loc_ft6/` | ft5augv2loc_ft6 | 1 ملف، 4.0K | — | وكيل |
 | 2026-10-21 | `results_archive/t14500_ft6augv2/` | t14500_ft6augv2 | 98 ملف، 792K | — | وكيل |
 | 2026-10-21 | `logs_archive/t14500_ft6augv2/` | t14500_ft6augv2 | 0 ملف، 4.0K | — | وكيل |
