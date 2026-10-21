@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-21 | `results_archive/ft6m1_mask_s1/` | ft6m1_mask_s1 | 0 ملف، 4.0K | — | وكيل |
 | 2026-10-21 | `logs_archive/ft6m1_mask_s1/` | ft6m1_mask_s1 | 1 ملف، 8.0K | — | وكيل |
 | 2026-10-21 | `weights_archive/ft6m1_mask_s1/` | ft6m1_mask_s1 | 2 ملف، 948K | — | وكيل |
 | 2026-10-21 | `results_archive/ft6m1_mask_s0/` | ft6m1_mask_s0 | 0 ملف، 4.0K | — | وكيل |
