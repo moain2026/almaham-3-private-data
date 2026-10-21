@@ -1,0 +1,30 @@
+{
+ "reasons": {
+  "no_tl": 612,
+  "no_meterbox": 132,
+  "excluded": 0,
+  "multi": 0,
+  "low_score": 40,
+  "short_unsafe": 75,
+  "irregular": 19,
+  "outside_meter": 0,
+  "ok": 531
+ },
+ "accepted": 531,
+ "by_type": {
+  "CRYSTAL": 98,
+  "SMART_YELLOW": 56,
+  "KENWELL": 39,
+  "TAGADOD": 103,
+  "OTHER": 66,
+  "TOMAS_STATIC": 53,
+  "TOMAS_SMART": 113,
+  "HPL": 1,
+  "GLORY": 2
+ },
+ "owner_visual": 182,
+ "owner_w": 2.0,
+ "n_train_keys": 388,
+ "n_val_keys": 68,
+ "min_score": 0.35
+}
