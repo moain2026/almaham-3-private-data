@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-21 | `weights_archive/m1loc_ft6m1/` | m1loc_ft6m1 | 1 ملف، 4.0K | — | وكيل |
 | 2026-10-21 | `review_sheets/` | review | 1374 ملف، 12M | — | وكيل |
 | 2026-10-21 | `results_archive/ft6m1_nomask_s1/` | ft6m1_nomask_s1 | 0 ملف، 4.0K | — | وكيل |
 | 2026-10-21 | `logs_archive/ft6m1_nomask_s1/` | ft6m1_nomask_s1 | 1 ملف، 8.0K | — | وكيل |
