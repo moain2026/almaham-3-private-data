@@ -1,0 +1,66 @@
+filename,reading,labeller,source,crop
+067c24fb-0029-43a8-a181-06e6179a12eb.jpg,001168,owner,owner_visual (المالك بنفسه),full_meter
+0cc6a2f2-b9b5-471c-8b4c-c6229621c040.jpg,001682,agentD,agentD_5layer,full_meter
+2c98a3c4-a702-48d3-9cc0-b19d0ba9dd89.jpg,001462,owner,owner_visual (المالك بنفسه),full_meter
+2cb14871-5941-40e3-bb61-40c5dcfd78ad.jpg,000960,owner,owner_visual (المالك بنفسه),full_meter
+5c82b3ac-376b-4406-b714-27910f9486e8.jpg,002700,owner,owner_visual (المالك بنفسه),full_meter
+93cbc282-fa55-4d37-8558-63445d5064a7.jpg,004652,owner,owner_visual (المالك بنفسه),full_meter
+9ebe16f2-a586-40b5-93d6-67d12a6fa8a6.jpg,007364,owner,owner_visual (المالك بنفسه),full_meter
+ca55bb50-2e26-406a-9171-9050006670d8.jpg,003341,owner,owner_visual (المالك بنفسه),full_meter
+document-86eea02c-8f09-4e91-9e80-dc8215ff7fe8.jpg,006462,agentD,agentD_5layer,full_meter
+document-97aecbc2-875c-59a5-a357-f839d64cf9e9.jpg,005662,owner,owner_visual (المالك بنفسه),full_meter
+document-d065c3b2-f33a-5c3c-a9a6-ab4045a671db.jpg,002845,agentD,agentD_5layer,full_meter
+e0be2220-aa16-4acd-b26d-54ebc46d2ff3.jpg,010554,owner,owner_visual (المالك بنفسه),full_meter
+e951ef47-5dc0-4e7b-87f2-76aa5befa722.jpg,003158,owner,owner_visual (المالك بنفسه),full_meter
+pending-3ad473fd-cf16-5f00-993c-d4a98e18c702-f6cf619a4406e08896643704c83c92de984d0609cbc70f8adba96397e22e3e3e.jpg,000961,owner,owner_visual (المالك بنفسه),full_meter
+pending-55d8dc4a-90e5-43fe-81cf-1afcfbf7c9d4-64d798f7378c7f8196145e704566838c0d935122f518a396c3eb7d3599d7257b.jpg,007022,agentD,agentD_5layer,full_meter
+pending-9934019c-b075-4bec-8c12-2dc7383d74ca-da79e7750c7d3b869af92cf552567e17f844fdaf5fba10392c8555bf6e033f77.jpg,020983,agentD,agentD_5layer,full_meter
+pending-abc0ec2e-f07c-419d-9588-3ac0557e3348-008d6866aa1fef8abc67676ce23130dbf58ae8d875ba2fac3d796c223631695f.jpg,010435,agentD,agentD_5layer,full_meter
+017896ce-23ad-4f96-af9e-d60d34b2009f.jpg,001575,agentD,4models+agentD_visual,full_meter
+0e1a7297-f371-4631-abcd-66a0404447bc.jpg,013020,agentD,4models+agentD_visual,full_meter
+0e4b3de7-da23-431d-b669-bbde2d83f1e6.jpg,00830,agentD,4models+agentD_visual,full_meter
+116925fb-c4bc-4530-9ec9-55dc75e70d4f.jpg,001210,agentD,4models+agentD_visual,full_meter
+25ea1eee-7666-45bf-a6ec-1a8996bf4741.jpg,002132,agentD,4models+agentD_visual,full_meter
+33a2b186-9754-47d5-ab7c-9f33f95bb8c3.jpg,005394,agentD,4models+agentD_visual,full_meter
+359c33ac-5b2f-439c-9ed2-02f2d9dd77a1.jpg,012429,agentD,4models+agentD_visual,full_meter
+4a53047a-4f54-4601-8be2-437e27d95d34.jpg,004207,agentD,4models+agentD_visual,full_meter
+516e7051-fb0a-4f62-80b5-230e29a3fd61.jpg,006799,agentD,4models+agentD_visual,full_meter
+5a3fa9aa-5e67-45bc-837a-d8c663b6b178.jpg,004266,agentD,4models+agentD_visual,full_meter
+68252ab4-2866-44d6-9032-7c457b5cae72.jpg,005792,agentD,4models+agentD_visual,full_meter
+6b0e31e8-c491-4e7b-a477-689d8a30bdcb.jpg,002508,agentD,4models+agentD_visual,full_meter
+6e21591d-3dc4-4a9f-9dd4-485a389f5193.jpg,005270,agentD,4models+agentD_visual,full_meter
+736aed3b-362a-431a-b6f4-8944f3a59454.jpg,012409,agentD,4models+agentD_visual,full_meter
+7f481b02-6f02-4e36-99bc-1d1b7a783d80.jpg,005996,agentD,4models+agentD_visual,full_meter
+8870c739-b58d-47a6-9a4e-397de91f2d37.jpg,006410,agentD,4models+agentD_visual,full_meter
+8b98c20d-b933-4f82-904a-17022b6ec026.jpg,011347,agentD,4models+agentD_visual,full_meter
+8ca96fc7-c994-4968-b94f-015e02a831c9.jpg,001247,agentD,4models+agentD_visual,full_meter
+91e8e463-e0b2-4020-bb55-1aa6bb43c7fa.jpg,004692,agentD,4models+agentD_visual,full_meter
+a7c96713-5fb4-41ac-94d3-0ff9a8c387f9.jpg,005566,agentD,4models+agentD_visual,full_meter
+aa089a7b-fd0d-49ca-96ac-0b2171fb4fc0.jpg,011013,agentD,4models+agentD_visual,full_meter
+ba577562-8f5a-4679-b7b0-c4d1b771a132.jpg,001958,agentD,4models+agentD_visual,full_meter
+bb07953e-9885-4c2b-805b-d3a22291e4e6.jpg,002622,agentD,4models+agentD_visual,full_meter
+bc5c36b0-67b2-4823-b4a0-dbf4ad2c0845.jpg,002412,agentD,4models+agentD_visual,full_meter
+cd4632b7-ca58-41e1-a0a4-8f29a1e37ab9.jpg,013787,agentD,4models+agentD_visual,full_meter
+da10067f-0a86-4d0a-aa82-2ba47950aa37.jpg,005185,agentD,4models+agentD_visual,full_meter
+dee4b7e4-a88b-4281-918d-78965fdd9268.jpg,001387,agentD,4models+agentD_visual,full_meter
+df864837-1dce-4aa6-897f-038f5e4f1ab5.jpg,004736,agentD,4models+agentD_visual,full_meter
+document-3ec943fd-0db7-5e4b-be89-e5b0369da51c.jpg,002000,agentD,4models+agentD_visual,full_meter
+document-a7d05cf3-d3b9-4e90-8e92-0da5aaf14a95.jpg,002096,agentD,4models+agentD_visual,full_meter
+document-c5b7437d-014b-5567-b248-2625ce82e7c1.jpg,007905,agentD,4models+agentD_visual,full_meter
+f0b45c71-3be6-4d26-a67b-88400db3ce0f.jpg,006221,agentD,4models+agentD_visual,full_meter
+fda718f8-abcd-47ae-b7b1-05d9f9448d1c.jpg,026106,agentD,4models+agentD_visual,full_meter
+pending-2b8fa675-a67f-5e5b-b9df-fc8024a31a10-4f9a0ceb8f92b7b2e75504b715332b48c19b498515d24468a820f6a2193cf2b5.jpg,008614,agentD,4models+agentD_visual,full_meter
+pending-2c0a6344-afec-41c6-bf52-20bf7e2f0b2e-c8052b4d054a127d04d988ed5c4d4a3799ed4157834d39c1784721f5d4f08ae0.jpg,005041,agentD,4models+agentD_visual,full_meter
+pending-487501cd-384c-4bd2-b707-eac0feaa5664-84d671adb8dd6c23cc3eb3b8c1714efefeb237d70eddf8745b5628cf2cfe8bfa.jpg,004976,agentD,4models+agentD_visual,full_meter
+pending-89ae4253-c927-5df9-89b7-62d60615057d-d3a5c09990f3c3a9acf777efa693f53243f8cdcad3b2890d0764ccb1848b6b6c.jpg,003633,agentD,4models+agentD_visual,full_meter
+pending-89ecbe0f-b457-5c15-9ef1-ef608e85c8ed-ae050e1e2a7d6e05f8a7ae7c8211a188004e357e6d17dc062c828ee19e2dcc7b.jpg,028217,agentD,4models+agentD_visual,full_meter
+pending-c03f651a-18f8-5701-a468-374dd545eec8-fe61f9e0da46082591bc7eb6161e66d3eebb01abd6c8571e570f87438af26364.jpg,008996,agentD,4models+agentD_visual,full_meter
+pending-e58e5eb9-706e-41ce-b405-4dd16eea1602-10960d6876d3493b807c17298d71bea7c6a0eb3338c465a86b2b25458c9327c1.jpg,006910,agentD,4models+agentD_visual,full_meter
+17e50b64-4a87-426b-9f7a-af0e7b0f86d8.jpg,015638,agentD,4models+agentD_visual,full_meter
+31c98917-0786-4442-8210-b4d8e04aef2a.jpg,001347,agentD,4models+agentD_visual,full_meter
+document-cb560ec5-8cf7-5632-a51e-dcff4baaa7bb.jpg,005848,agentD,4models+agentD_visual,full_meter
+344d88f0-75f5-4c42-b21a-a574878ac44e.jpg,017679,owner,owner_visual (المالك بنفسه),full_meter
+89ce66aa-3476-4887-a9e7-e7741937a00a.jpg,002882,owner,owner_visual (المالك بنفسه),full_meter
+b8271c17-1d27-408c-94e8-a6206d17fa9f.jpg,007507,owner,owner_visual (المالك بنفسه),full_meter
+document-ec84e70b-199a-552c-84ed-a966e99b97fe.jpg,013406,owner,owner_visual (المالك بنفسه),full_meter
+ee367351-be9d-4d96-9eeb-d0144a0cb7dd.jpg,004110,owner,owner_visual (المالك بنفسه),full_meter

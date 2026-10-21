@@ -1,0 +1,1217 @@
+{
+ "saved_at": "2026-10-21T07:08:31Z",
+ "labels": [
+  {
+   "n": 1,
+   "filename": "fb39805d-9fc2-4d49-b6e3-5a135ab844fa.jpg",
+   "reading": "569",
+   "type": "GLORY"
+  },
+  {
+   "n": 2,
+   "filename": "04dec8a6-8dde-4a62-ae01-e617ade1ad55.jpg",
+   "reading": "1263",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 3,
+   "filename": "document-1bc71150-9ad6-5987-97ef-62c3956ae0f1.jpg",
+   "reading": "1310",
+   "type": "KENWELL"
+  },
+  {
+   "n": 4,
+   "filename": "document-2375a474-b571-45a3-8730-3c8b2c406c7e.jpg",
+   "reading": "17679",
+   "type": "KENWELL"
+  },
+  {
+   "n": 5,
+   "filename": "a2e4aa39-ba9a-4d18-842d-81521b2c325f.jpg",
+   "reading": "3192",
+   "type": "KENWELL"
+  },
+  {
+   "n": 6,
+   "filename": "30573dae-d2a5-46db-9bd9-7ef8e9efe909.jpg",
+   "reading": "2162",
+   "type": "KENWELL"
+  },
+  {
+   "n": 7,
+   "filename": "document-9afdd5b2-242c-536e-8e16-20b5578759e8.jpg",
+   "reading": "4144",
+   "type": "KENWELL"
+  },
+  {
+   "n": 8,
+   "filename": "d1496d57-3d34-4afb-815b-2218dab8d229.jpg",
+   "reading": "1805",
+   "type": "KENWELL"
+  },
+  {
+   "n": 9,
+   "filename": "pending-05998449-f511-4574-a3c8-323acba3a2d9-7a64df458fa9c6b92b09fc0808748a53e2e8bce3c31a3ffe26f99d798f2830d9.jpg",
+   "reading": "X",
+   "type": "KENWELL"
+  },
+  {
+   "n": 10,
+   "filename": "469edab4-b232-416c-885b-fb87b197a261.jpg",
+   "reading": "16130",
+   "type": "KENWELL"
+  },
+  {
+   "n": 11,
+   "filename": "pending-bd992aa5-c1ef-5847-9fc0-eff19973ab79-107526f71c2ea38f56f7ecaa4667a1e5dd1792eb82ad79d3d074e862f724b340.jpg",
+   "reading": "X",
+   "type": "KENWELL"
+  },
+  {
+   "n": 12,
+   "filename": "document-a0745326-1513-414f-8d43-f35ca7ac4b27.jpg",
+   "reading": "372",
+   "type": "KENWELL"
+  },
+  {
+   "n": 13,
+   "filename": "e5306e30-8dad-431d-8eea-c17382fb61cc.jpg",
+   "reading": "7507",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 14,
+   "filename": "f3dd272b-ca84-40a4-a98d-1f4139fb06bf.jpg",
+   "reading": "2031",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 15,
+   "filename": "c4bd1ff4-1332-4149-ade4-f04badd1d98b.jpg",
+   "reading": "1970",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 16,
+   "filename": "1f50875e-2a00-4f93-99f3-1c12e35eeeeb.jpg",
+   "reading": "263",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 17,
+   "filename": "b21d03e3-ee9c-48f5-9343-7e1ca1fada82.jpg",
+   "reading": "57",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 18,
+   "filename": "6d4638b4-07bc-4ced-b04c-15b9a961c174.jpg",
+   "reading": "2116",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 19,
+   "filename": "03c82a10-f909-499e-ba95-917de1fce3ca.jpg",
+   "reading": "1124",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 20,
+   "filename": "2d36829d-ed78-4a4a-801f-d88fdc649ae7.jpg",
+   "reading": "2187",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 21,
+   "filename": "f3ac7164-8a3f-47d7-9987-b31bc3d5f794.jpg",
+   "reading": "2493",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 22,
+   "filename": "d066a6a2-f00d-42e8-bffd-5405e54a17ae.jpg",
+   "reading": "1396",
+   "type": "OTHER:MAS"
+  },
+  {
+   "n": 23,
+   "filename": "document-68d3f2da-f4a2-5710-81c3-9bc2bf68ed1a.jpg",
+   "reading": "1572",
+   "type": "OTHER:MAS"
+  },
+  {
+   "n": 24,
+   "filename": "8bb266ae-968c-40fb-a846-660a280c9bba.jpg",
+   "reading": "2754",
+   "type": "OTHER:Veto"
+  },
+  {
+   "n": 25,
+   "filename": "document-c26213a4-a8e4-4628-9ecf-3fcecb398a16.jpg",
+   "reading": "1363",
+   "type": "OTHER:PEOPLE ELE.APPLIANCE"
+  },
+  {
+   "n": 26,
+   "filename": "d98fb2c7-858f-42f6-ad2f-8910b4a13c33.jpg",
+   "reading": "230",
+   "type": "OTHER:?"
+  },
+  {
+   "n": 27,
+   "filename": "pending-10446777-e1c4-4372-9d6c-c6f57c0a4a82-0df0f748791b50fca7789c66c99c37e9b19871b9ec1e6a059248a202603d0bd8.jpg",
+   "reading": "10219",
+   "type": "OTHER:?"
+  },
+  {
+   "n": 28,
+   "filename": "287e6267-a6a2-48bf-a436-2b63215256f7.jpg",
+   "reading": "1270",
+   "type": "OTHER:?"
+  },
+  {
+   "n": 29,
+   "filename": "80803311-b332-4859-8c05-8a68e50e144f.jpg",
+   "reading": "13406",
+   "type": "OTHER:ADD GRUP"
+  },
+  {
+   "n": 30,
+   "filename": "924677af-fbb8-4cc7-aba8-a58e29ca49ff.jpg",
+   "reading": "1422",
+   "type": "OTHER:?"
+  },
+  {
+   "n": 31,
+   "filename": "d7525fdc-f123-44a0-9aba-895886871535.jpg",
+   "reading": "1840",
+   "type": "OTHER:?"
+  },
+  {
+   "n": 32,
+   "filename": "7e23bed4-f8eb-4b22-8cf6-e295308112f7.jpg",
+   "reading": "4110",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 33,
+   "filename": "e5d606f3-a5de-4e3e-8397-2fab81c91c08.jpg",
+   "reading": "281",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 34,
+   "filename": "pending-7ae6b802-b661-48bd-a4b0-d6df37467362-a7fa658c6285e3925b1ef32f277d11a5d2a1a08eaa11d1f008864f46ec52b592.jpg",
+   "reading": "192",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 35,
+   "filename": "0bb88d0d-188c-47d6-8c44-72fd8a4a061b.jpg",
+   "reading": "1449",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 36,
+   "filename": "d64b1575-044e-40f5-8f94-d7e9a659d952.jpg",
+   "reading": "3108",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 37,
+   "filename": "document-6f15331d-c50d-4e57-8fa9-879dc5d30d12.jpg",
+   "reading": "1416",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 38,
+   "filename": "4da3a2c4-1a8f-4f8d-95f2-3a1f92f4d1d0.jpg",
+   "reading": "2463",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 39,
+   "filename": "bb29c46c-8ac2-4254-9651-27f3ad366dea.jpg",
+   "reading": "573",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 40,
+   "filename": "b1812514-4925-4a0c-87be-b42dfed64b40.jpg",
+   "reading": "2691",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 41,
+   "filename": "document-1b48042c-b07b-474d-8f93-bb5e5a7df551.jpg",
+   "reading": "2461",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 42,
+   "filename": "82ca4000-6039-494d-b907-d9aa0825a8e8.jpg",
+   "reading": "2285",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 43,
+   "filename": "ad0748c0-fd2d-4777-86a6-b9007e7eea1a.jpg",
+   "reading": "1201",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 44,
+   "filename": "f1f71571-2909-445b-b118-85a23148f20a.jpg",
+   "reading": "3112",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 45,
+   "filename": "1666137f-5dce-4dc5-b75c-ea24b12b9882.jpg",
+   "reading": "1106",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 46,
+   "filename": "affc9aa9-7839-41bc-9c4d-5fd803d6c941.jpg",
+   "reading": "308",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 47,
+   "filename": "pending-ca5f9e66-2d2f-4994-8bfa-d6c8608f095c-40b5829d0a949b82400949a5752664b2a63d9204ce3f9983e87d4c37959e3536.jpg",
+   "reading": "3121",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 48,
+   "filename": "3ceefcdb-5438-47ed-8b39-53a3e79a3b4c.jpg",
+   "reading": "99",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 49,
+   "filename": "60ffb451-0ba9-4a67-a82a-80ed66f42923.jpg",
+   "reading": "23",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 50,
+   "filename": "4df791b0-0ee6-4547-b022-015eddc3fd90.jpg",
+   "reading": "485",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 51,
+   "filename": "8268d942-1a66-4fca-8242-bfaf965c8af6.jpg",
+   "reading": "3527",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 52,
+   "filename": "f174336b-e128-4220-8cf6-4a5898a17cfd.jpg",
+   "reading": "305",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 53,
+   "filename": "f447c98c-8f67-4852-aec4-e02c2bfb0de5.jpg",
+   "reading": "215",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 54,
+   "filename": "19415f15-002b-44f8-ba2c-358ef103f86b.jpg",
+   "reading": "154",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 55,
+   "filename": "3e27e9b4-8951-43d9-b86f-f81f01bc724e.jpg",
+   "reading": "316",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 56,
+   "filename": "fc10d6de-4b87-4a9b-ac0a-cf01f5763692.jpg",
+   "reading": "660",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 57,
+   "filename": "24a5d00e-9ffb-48a3-b264-320bc35199f9.jpg",
+   "reading": "323",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 58,
+   "filename": "f0c2b1b6-bade-4fef-bdcf-b3acbed720eb.jpg",
+   "reading": "468",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 59,
+   "filename": "879e51c9-bae4-4529-a079-8f774e8cb08b.jpg",
+   "reading": "773",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 60,
+   "filename": "document-44bfb9cf-04e4-48c3-a992-15b4796cbfdc.jpg",
+   "reading": "27",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 61,
+   "filename": "cef25f3a-38dd-4f61-9802-5e2d5bac82c4.jpg",
+   "reading": "820",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 62,
+   "filename": "53ce7349-2865-4663-b9d2-d5f9cc8b3a7e.jpg",
+   "reading": "1907",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 63,
+   "filename": "document-ac3f5026-ae06-5f2e-ad03-9e8a52e02616.jpg",
+   "reading": "403",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 64,
+   "filename": "ce53bea4-deca-462c-8c43-da03c83d5354.jpg",
+   "reading": "1759",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 65,
+   "filename": "pending-dec3c25e-f0d2-42f9-968d-cac49bf1816a-430ba752221e7b8e82103d2e310b44b2aeecd8b79246d8e476c7142ba8eb7e97.jpg",
+   "reading": "402",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 66,
+   "filename": "f3504c71-e5e4-42ee-ae5c-6f63a25b2a69.jpg",
+   "reading": "6918",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 67,
+   "filename": "e1b9ae41-ac93-4d9b-8220-fb5753b4a43c.jpg",
+   "reading": "595",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 68,
+   "filename": "pending-af312a47-8e02-459b-9903-3c25b6a07fdd-6f00726f881572cd95ebda6bfc924125135aeb96919a51117268b98aca9af1dd.jpg",
+   "reading": "952",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 69,
+   "filename": "e3822a17-bcdf-4fa4-88ef-a16a476ffa32.jpg",
+   "reading": "536",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 70,
+   "filename": "5a143e2e-717d-46f7-8f70-7a0dedbb4d89.jpg",
+   "reading": "199",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 71,
+   "filename": "364e041f-a3f6-41e5-99b2-01306673c901.jpg",
+   "reading": "983",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 72,
+   "filename": "5746163c-fb39-474c-bdb0-c631af558f79.jpg",
+   "reading": "1437",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 73,
+   "filename": "ace4a894-37ae-4a29-a072-7e375da4543f.jpg",
+   "reading": "355",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 74,
+   "filename": "document-6d04e219-63c7-431c-aab8-abe6cd99b6f6.jpg",
+   "reading": "35",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 75,
+   "filename": "035f762a-0778-41ab-a46b-f16a2968e805.jpg",
+   "reading": "9058",
+   "type": "GLORY"
+  },
+  {
+   "n": 76,
+   "filename": "1315a07c-be07-4271-8ef8-09f9ad57a9da.jpg",
+   "reading": "131889",
+   "type": "GLORY"
+  },
+  {
+   "n": 77,
+   "filename": "5c08533d-bbcf-4b32-ba2f-0c194ae9b91e.jpg",
+   "reading": "60156",
+   "type": "KENWELL"
+  },
+  {
+   "n": 78,
+   "filename": "6f37359e-3d29-4b3b-bfa0-258c981299d5.jpg",
+   "reading": "343",
+   "type": "KENWELL"
+  },
+  {
+   "n": 79,
+   "filename": "cafa4f07-4087-450c-a6b3-29697fed1a04.jpg",
+   "reading": "2074",
+   "type": "KENWELL"
+  },
+  {
+   "n": 80,
+   "filename": "aee68843-9618-47f4-b8ff-46471bcacfd3.jpg",
+   "reading": "16033",
+   "type": "KENWELL"
+  },
+  {
+   "n": 81,
+   "filename": "f8fc9a02-3a2a-45e3-b8b7-fa0ba6bcfdfb.jpg",
+   "reading": "X",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 82,
+   "filename": "ea42a0d2-82c2-429f-bae3-b7c45471cbc5.jpg",
+   "reading": "0",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 83,
+   "filename": "5c48f47f-3e73-4fbb-b998-f4b5f052a1fc.jpg",
+   "reading": "555",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 84,
+   "filename": "c034598d-2d1c-4c0a-8d75-a3d790f20478.jpg",
+   "reading": "161",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 85,
+   "filename": "07c3b01e-cd80-4cc6-b46c-3a04e249d2c3.jpg",
+   "reading": "822",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 86,
+   "filename": "4639875f-dd7c-4a89-900b-455d9578103b.jpg",
+   "reading": "581",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 87,
+   "filename": "6cc95d9c-dd59-49ce-93a2-5b4ef6742877.jpg",
+   "reading": "56",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 88,
+   "filename": "1e54227c-42c2-4be8-816e-c9bb32d9fa97.jpg",
+   "reading": "123",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 89,
+   "filename": "e79eca26-4e43-49b5-aa72-f32f7fab0ed2.jpg",
+   "reading": "1197",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 90,
+   "filename": "10a54bf3-fcae-4d86-b880-16036e3e213d.jpg",
+   "reading": "329",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 91,
+   "filename": "2e602f34-1b27-4582-9740-e3ae2b127409.jpg",
+   "reading": "188",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 92,
+   "filename": "ffce0eab-6de4-4a9c-8be0-5b06b8ee8132.jpg",
+   "reading": "95",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 93,
+   "filename": "f3de504e-5899-40bc-97b7-97c5452f270e.jpg",
+   "reading": "124",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 94,
+   "filename": "40778f2f-3d66-40d2-8de8-835ee9150c9f.jpg",
+   "reading": "276",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 95,
+   "filename": "5acae20b-0472-43f0-98a5-45f253127f01.jpg",
+   "reading": "1670",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 96,
+   "filename": "85ee4bd4-d8f8-4dfb-bc4f-9849fffea12d.jpg",
+   "reading": "488",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 97,
+   "filename": "3bc8eeb4-b54c-41ca-bcf4-fb3454b4fb61.jpg",
+   "reading": "447",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 98,
+   "filename": "e1761ca9-13cf-452b-ac79-0c351df5fe23.jpg",
+   "reading": "250",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 99,
+   "filename": "82b475a3-2e08-46e8-aed4-18d71bca397f.jpg",
+   "reading": "15",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 100,
+   "filename": "37a98ffd-3ff2-437d-b85e-3eecb59063c3.jpg",
+   "reading": "X",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 101,
+   "filename": "d5baa7aa-9e7f-4ace-b6ea-c724548e9fa4.jpg",
+   "reading": "53",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 102,
+   "filename": "0d720429-cefc-40c8-b4b2-1382e3ae1890.jpg",
+   "reading": "132",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 103,
+   "filename": "e6b944d6-ae35-470f-b5e6-c08fbbfe36a3.jpg",
+   "reading": "22",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 104,
+   "filename": "document-98d6611b-1342-5e60-81db-7888b53390a7.jpg",
+   "reading": "536",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 105,
+   "filename": "2e440f51-baf2-4bb7-a0f7-27cbe7f0cbbc.jpg",
+   "reading": "247",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 106,
+   "filename": "document-c187c9aa-c0ba-484c-bd13-f9b54aeb5c85.jpg",
+   "reading": "219",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 107,
+   "filename": "7a0e13c4-1927-496f-b31c-e032735a998f.jpg",
+   "reading": "X",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 108,
+   "filename": "258d1c6b-11af-4252-8119-f32f7077e6d4.jpg",
+   "reading": "31",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 109,
+   "filename": "document-c1027000-0000-4000-8000-000000000005.jpg",
+   "reading": "769",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 110,
+   "filename": "778a8ad7-2848-49f8-8259-8f1aefb1605c.jpg",
+   "reading": "52",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 111,
+   "filename": "273a396e-f8ff-4268-9f39-f4c4608b1915.jpg",
+   "reading": "211",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 112,
+   "filename": "pending-cbce5caf-88db-50c5-b290-681b4f80381d-8a5b813b06f7ea2492a697914eda6da248e62e85bf7025c03044348c64f1ec83.jpg",
+   "reading": "1957",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 113,
+   "filename": "3ab6511a-4eab-4f73-966e-0240c80e870f.jpg",
+   "reading": "38",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 114,
+   "filename": "57436f05-423c-49da-8ea3-7e6a48532306.jpg",
+   "reading": "730",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 115,
+   "filename": "document-f984e5e9-ef80-5e9a-8b28-e92fdc96b04b.jpg",
+   "reading": "366",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 116,
+   "filename": "abf22814-2716-449c-afb9-0724a73d76ff.jpg",
+   "reading": "258",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 117,
+   "filename": "pending-bfae53ce-59b9-5c68-a861-c572564c347e-b6a4cde85bf31e10e669b1085bd82563c2c0deb6edd9275df940720da83d29e4.jpg",
+   "reading": "147",
+   "type": "CRYSTAL"
+  },
+  {
+   "n": 118,
+   "filename": "5f08264d-a361-41ff-8675-fd80acdc1b21.jpg",
+   "reading": "4615",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 119,
+   "filename": "e3ce0453-42f8-4788-a11e-46eedee26ebb.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 120,
+   "filename": "8147a05b-b96b-49f2-8d20-bb4bf0f77e1c.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 121,
+   "filename": "782c7f4a-6193-49c3-b038-1545087bc228.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 122,
+   "filename": "5b01cdb4-7109-4129-b91a-ae33f0509b1e.jpg",
+   "reading": "9059",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 123,
+   "filename": "02d23fe9-d309-486b-b96b-b92b4d0f4601.jpg",
+   "reading": "2766",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 124,
+   "filename": "516e9f6f-89fa-485f-a822-0db7378819fe.jpg",
+   "reading": "2582",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 125,
+   "filename": "d22e0f40-596c-4428-a8b7-bfa9cba9122d.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 126,
+   "filename": "1cc34ba5-26a3-45a3-a1cc-a688677e715f.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 127,
+   "filename": "097a07e2-519d-4488-8077-d188a5b0a7d7.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 128,
+   "filename": "7f6e5002-f460-4cd6-aa48-766979c42a9b.jpg",
+   "reading": "1989",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 129,
+   "filename": "c172b7fa-3acd-4c98-84ea-d12878e9e269.jpg",
+   "reading": "4668",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 130,
+   "filename": "7549301c-7eb4-425a-9333-fd6432eb6147.jpg",
+   "reading": "19837",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 131,
+   "filename": "0203100c-0037-4799-b942-8cfe879af79e.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 132,
+   "filename": "75f66eed-c0ac-42cb-9881-a5ffe3fcb22b.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 133,
+   "filename": "document-0f72ec82-c94a-50a2-8f20-2d8b9c6247b0.jpg",
+   "reading": "3212",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 134,
+   "filename": "4912967a-b8b4-45f7-a00a-78cc6211f10b.jpg",
+   "reading": "5464",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 135,
+   "filename": "pending-f7f55394-5a02-5edc-b822-a8e0b107e76b-9f28a5c55c8b9d6bec10bc128360143d51c2085df2a3bed6c53b079d9386ae01.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 136,
+   "filename": "pending-92819f24-d302-529b-824d-d798f80083fb-8c85950ffdaa74e4dd376a3d9006395ef41eaa09e2d343c4e751f9c720e60b5b.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 137,
+   "filename": "pending-beac2358-8f89-556c-8ef1-9263be814074-88afa4134c65000fb6efce2450e528189fb543fd1c7655e9c4e99f4a4b2da169.jpg",
+   "reading": "1969",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 138,
+   "filename": "1479902f-f276-4f76-b51b-32ebc3bf2547.jpg",
+   "reading": "5358",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 139,
+   "filename": "74de4ab0-028b-449b-a933-2551bd1ea3b0.jpg",
+   "reading": "2398",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 140,
+   "filename": "document-09c33e8b-97ab-5521-8cde-e84d934712b6.jpg",
+   "reading": "13738",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 141,
+   "filename": "pending-33502f74-dc6e-58ad-8fb6-9615b1dc5d48-14df4c6914bef088db8887327750b0671860a9161418444a325036daf109185b.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 142,
+   "filename": "pending-e9e6c1f9-d738-597f-9575-51b21610622c-db8cf6118c7bf447125f7af488b0953819640253dfa2d9120f03ce814ee164b8.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 143,
+   "filename": "document-0017e757-7c13-46c1-93c4-4ba7e3967fb7.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 144,
+   "filename": "pending-cbad2d12-466f-56c1-8b54-4db30b0af811-fb9b4c7b53ad8ad1fc7fa6daf0d327c37b1c7c9dbdc56eee59873c178a7827a2.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 145,
+   "filename": "ab1ad898-8f98-462e-8c86-792374640494.jpg",
+   "reading": "2723",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 146,
+   "filename": "b3a96f56-9e35-40ce-9813-a3b0705d7aff.jpg",
+   "reading": "4071",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 147,
+   "filename": "pending-a38b64e0-8605-574c-ba2c-8731282c8eb7-53f8df8951b8e740b8a084176bbc8e5ce02094f965132d77fd8d0bb488068421.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 148,
+   "filename": "pending-dd816f85-65d9-4a82-88e0-fb61d6e7a546-17d610f91e93ef7781c7a3b1ace06b462970896092a501f647b07a34ffa5522d.jpg",
+   "reading": "6460",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 149,
+   "filename": "94211655-6285-4f98-96f0-a665dd528f73.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 150,
+   "filename": "pending-f96c6b52-1806-5842-be4a-870051ca617b-eb0c8bdc9ca53efc032ab3fb4d0c7acf6b6f8a1811df7f4c5d68f803a09ca11e.jpg",
+   "reading": "X",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 151,
+   "filename": "088e5db4-60f3-4887-8220-c000a9810bb7.jpg",
+   "reading": "7648",
+   "type": "SMART_YELLOW"
+  },
+  {
+   "n": 152,
+   "filename": "21a33183-72c3-4543-a1d9-82f3c773ce6d.jpg",
+   "reading": "4775",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 153,
+   "filename": "5221a14b-0f8a-4582-8496-fb6d4da21a40.jpg",
+   "reading": "6735",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 154,
+   "filename": "be12a034-063d-405e-8ef9-0f99af5c4977.jpg",
+   "reading": "9062",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 155,
+   "filename": "8695cfc5-bf1e-443a-a5e4-82247641b347.jpg",
+   "reading": "3230",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 156,
+   "filename": "fc05df29-4cbb-4de3-87fb-5740d21e6628.jpg",
+   "reading": "5242",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 157,
+   "filename": "77015b35-4edd-4537-9370-95bfeb635553.jpg",
+   "reading": "5242",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 158,
+   "filename": "d4dc7771-27ee-4fdf-a8b8-3eb24af08b1b.jpg",
+   "reading": "11065",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 159,
+   "filename": "cf1eafcd-6eaf-4949-8a22-1ab3c4d03de7.jpg",
+   "reading": "X",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 160,
+   "filename": "e212a2f4-04a4-4d36-8786-04d54629befa.jpg",
+   "reading": "3394",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 161,
+   "filename": "8699c813-46de-4e6b-90e6-20b0cf7dce32.jpg",
+   "reading": "7155",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 162,
+   "filename": "9ab0a14e-84ca-410b-92f3-c1e19fad63ee.jpg",
+   "reading": "5499",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 163,
+   "filename": "015a416f-ec04-4119-9ddc-1fd2d0f07df6.jpg",
+   "reading": "X",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 164,
+   "filename": "1618a417-2955-4abf-b446-858a2932521e.jpg",
+   "reading": "4829",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 165,
+   "filename": "9034b90c-ea3c-4873-af55-38c0571562b6.jpg",
+   "reading": "25761",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 166,
+   "filename": "45df6a1d-4b8a-4ce3-8cd2-c5dfe3f6f539.jpg",
+   "reading": "9868",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 167,
+   "filename": "ca174da8-afa9-41bd-a989-dce49bb40ef3.jpg",
+   "reading": "11122",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 168,
+   "filename": "057f8ae2-6a7d-41ed-b99a-f95bd360d28c.jpg",
+   "reading": "3442",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 169,
+   "filename": "917b5a68-97df-4f41-98f2-98260da87841.jpg",
+   "reading": "X",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 170,
+   "filename": "8b980c43-cb97-4760-8949-c63274df397e.jpg",
+   "reading": "28260",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 171,
+   "filename": "43376869-c184-4bfd-ab33-eea2239407c9.jpg",
+   "reading": "4422",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 172,
+   "filename": "45d2b94a-5652-4154-b295-401792cf568e.jpg",
+   "reading": "4832",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 173,
+   "filename": "928c358b-362d-4255-b516-956b4e7223c0.jpg",
+   "reading": "2290",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 174,
+   "filename": "368aac81-2fa7-4739-93bf-d5bba6b442c3.jpg",
+   "reading": "X",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 175,
+   "filename": "pending-db776f8f-9187-5496-be95-a6d8a8ef971e-4028b66141d3de7f3dd331cf1e947320aa7777deb3182dcd514ef89df5099753.jpg",
+   "reading": "X",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 176,
+   "filename": "a13768d7-7161-4db2-95ee-4301f81dbdab.jpg",
+   "reading": "X",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 177,
+   "filename": "98048c22-4f55-4cfa-84b3-f6c0a350cdc0.jpg",
+   "reading": "2138",
+   "type": "EMETER_GREEN"
+  },
+  {
+   "n": 178,
+   "filename": "77f8e8da-302c-44fe-a7c5-bd5c7dd6ee2a.jpg",
+   "reading": "7864",
+   "type": "OTHER:Veto"
+  },
+  {
+   "n": 179,
+   "filename": "0edf7962-0b02-4773-857f-603ac1d9ac7e.jpg",
+   "reading": "6132",
+   "type": "OTHER:Vata"
+  },
+  {
+   "n": 180,
+   "filename": "a2ff5382-fb12-4689-8742-a68f624eda84.jpg",
+   "reading": "2743",
+   "type": "OTHER:VITZRO"
+  },
+  {
+   "n": 181,
+   "filename": "46ec6fb7-231f-4487-a602-1fbad1d04fa2.jpg",
+   "reading": "13183",
+   "type": "OTHER:YUEQINGSHI SHUAWE EL"
+  },
+  {
+   "n": 182,
+   "filename": "49be9dda-fdae-4fb4-bd49-938606104a5f.jpg",
+   "reading": "11163",
+   "type": "OTHER:KIGM"
+  },
+  {
+   "n": 183,
+   "filename": "f3b7512c-d0d6-4a9d-9a37-ad55298c2ae0.jpg",
+   "reading": "5371",
+   "type": "OTHER:Veto"
+  },
+  {
+   "n": 184,
+   "filename": "document-76968993-5225-5ce7-9ade-6f7456d43635.jpg",
+   "reading": "2305",
+   "type": "OTHER:Veto"
+  },
+  {
+   "n": 185,
+   "filename": "document-09b72ad1-4639-53a4-803a-5c2dba57bdea.jpg",
+   "reading": "3378",
+   "type": "OTHER:Veto"
+  },
+  {
+   "n": 186,
+   "filename": "pending-e6d8b200-6cc5-5858-a2c2-59bddb6d2e50-231f81b176c49faac547a01eb7040ac039643c20add47056d4435d0a36dc69f5.jpg",
+   "reading": "5129",
+   "type": "OTHER:Veto"
+  },
+  {
+   "n": 187,
+   "filename": "2fd94be0-0571-427b-a55e-a887340ed4c2.jpg",
+   "reading": "12927",
+   "type": "OTHER:YUEQINGSHI SHUAWE EL"
+  },
+  {
+   "n": 188,
+   "filename": "pending-d43f28ec-01cd-5944-84de-054b901d0f50-30254bf5919c85036b31d6014768ce6792d57d0d647220a29d6f08162204c507.jpg",
+   "reading": "6077",
+   "type": "OTHER:Veto"
+  },
+  {
+   "n": 189,
+   "filename": "4d249968-fb9b-41e1-8aba-3e55dc64e7ba.jpg",
+   "reading": "152",
+   "type": "OTHER:?"
+  },
+  {
+   "n": 190,
+   "filename": "6a1b9aac-e454-43ba-8754-bb4ace231980.jpg",
+   "reading": "3760",
+   "type": "OTHER:Vvet"
+  },
+  {
+   "n": 191,
+   "filename": "24abc087-8fff-4215-9f33-0a5961f397b2.jpg",
+   "reading": "280632",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 192,
+   "filename": "pending-8cc1c3e2-b433-4849-a090-e0136fc68ae1-b344d14cdf45a9cacefc7f1e01e2e56d04f67dee59bb46433efd47036f7cef13.jpg",
+   "reading": "77226",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 193,
+   "filename": "5fe65422-0969-4edc-aacc-4edff8394485.jpg",
+   "reading": "11486",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 194,
+   "filename": "pending-0677f929-4a5a-4438-9786-9fd8078cf056-7ffe6c73a44a34d970218196c3677bda23abc84b30f299f07fc121440a07b22a.jpg",
+   "reading": "158536",
+   "type": "MECHANICAL"
+  },
+  {
+   "n": 195,
+   "filename": "fbf4b8f4-ef1f-456e-af86-a79845682190.jpg",
+   "reading": "1397",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 196,
+   "filename": "8d8185ba-6a8b-4981-bc8a-387a09d55423.jpg",
+   "reading": "X",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 197,
+   "filename": "ddb33d21-be0e-47e0-9185-7081c97a898d.jpg",
+   "reading": "946",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 198,
+   "filename": "5b5ce8d7-e81e-420e-bb0b-ed05dcdd081d.jpg",
+   "reading": "170",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 199,
+   "filename": "99e7d29c-2aa1-4a76-ad75-ddb4cf163f23.jpg",
+   "reading": "1749",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 200,
+   "filename": "c24ecd99-dce5-469a-aa94-b51b34d92940.jpg",
+   "reading": "169",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 201,
+   "filename": "ffccf713-1405-41b8-aec2-335db9c8bfc8.jpg",
+   "reading": "790",
+   "type": "TAGADOD"
+  },
+  {
+   "n": 202,
+   "filename": "pending-f3e72ae4-3935-5b09-8e4e-f8ee1b9c2e1d-719344656ad59dd4ea45d5c0f9162d5c761c993fd1dd311749e0f5ab45af0b52.jpg",
+   "reading": "52",
+   "type": "HPL"
+  }
+ ]
+}

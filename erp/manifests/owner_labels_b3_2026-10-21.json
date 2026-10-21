@@ -1,0 +1,263 @@
+{
+ "saved_at": "2026-10-21T06:34:30Z",
+ "labels": [
+  {
+   "n": 1,
+   "filename": "229e15f7-6822-4ab2-bb84-2d68aa2ba44e.jpg",
+   "reading": "569",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 2,
+   "filename": "23af7bb3-0e86-415d-b585-60f2193bfc5a.jpg",
+   "reading": "1263",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 3,
+   "filename": "28f58f1d-f9a9-4732-b710-8f1d76ca5df1.jpg",
+   "reading": "1310",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 4,
+   "filename": "344d88f0-75f5-4c42-b21a-a574878ac44e.jpg",
+   "reading": "17679",
+   "type": "TOMAS_STATIC"
+  },
+  {
+   "n": 5,
+   "filename": "4b7ea6c7-8bc8-43d5-acea-d82c788c3b99.jpg",
+   "reading": "3192",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 6,
+   "filename": "5b5a7cfa-a7e7-4e24-96a3-8f3b5a013347.jpg",
+   "reading": "2162",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 7,
+   "filename": "7445763f-a2c0-4569-9c89-5747d4d8c488.jpg",
+   "reading": "4144",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 8,
+   "filename": "8613dbac-edff-43bf-bced-48a68a8290bc.jpg",
+   "reading": "1805",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 9,
+   "filename": "89ce66aa-3476-4887-a9e7-e7741937a00a.jpg",
+   "reading": "2882",
+   "type": "TOMAS_STATIC"
+  },
+  {
+   "n": 10,
+   "filename": "962b358d-9774-4198-9c94-daab65e04d74.jpg",
+   "reading": "16130",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 11,
+   "filename": "97fee04e-8696-4490-92f4-51eab5ca8b0f.jpg",
+   "reading": "X",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 12,
+   "filename": "a03498c9-e5e5-4d83-9728-9f25f5e8852c.jpg",
+   "reading": "372",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 13,
+   "filename": "b8271c17-1d27-408c-94e8-a6206d17fa9f.jpg",
+   "reading": "7507",
+   "type": "TOMAS_STATIC"
+  },
+  {
+   "n": 14,
+   "filename": "bb01fcac-0f00-4eb4-9b26-322bffeba1c1.jpg",
+   "reading": "2031",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 15,
+   "filename": "be4070d6-2111-4d35-a090-614ea90d09d4.jpg",
+   "reading": "1970",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 16,
+   "filename": "c196b49d-841c-46bf-b2af-e49a35e6f34c.jpg",
+   "reading": "263",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 17,
+   "filename": "c4dd115b-75f2-4d95-b442-273a599be137.jpg",
+   "reading": "57",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 18,
+   "filename": "c5fe894d-1dbf-4395-a5fb-c06a1c6358d5.jpg",
+   "reading": "2116",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 19,
+   "filename": "ca364fa0-fd4c-4a44-9a45-064c0f4e7073.jpg",
+   "reading": "1124",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 20,
+   "filename": "cefc889c-f159-4966-82b4-99c23408d412.jpg",
+   "reading": "2187",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 21,
+   "filename": "cfca5600-590f-4d3f-96c8-397a19bf3ac3.jpg",
+   "reading": "2493",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 22,
+   "filename": "da2ae6d2-17cd-4348-95b0-6e5a4d2c2032.jpg",
+   "reading": "1396",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 23,
+   "filename": "document-17a92505-507b-53b2-b563-03f051055979.jpg",
+   "reading": "1572",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 24,
+   "filename": "document-6b2fbfd8-a180-59c6-8d95-0f0914e44965.jpg",
+   "reading": "2754",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 25,
+   "filename": "document-815cdde6-23f9-5fdd-8a99-74151ae34eb4.jpg",
+   "reading": "1363",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 26,
+   "filename": "document-993af03f-d435-408f-90ba-4749ca3f5ba2.jpg",
+   "reading": "230",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 27,
+   "filename": "document-b6bcbade-16c3-577e-bf19-218715dcc95e.jpg",
+   "reading": "10219",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 28,
+   "filename": "document-c69fa391-0994-5486-95a3-e2277aa287a8.jpg",
+   "reading": "1270",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 29,
+   "filename": "document-ec84e70b-199a-552c-84ed-a966e99b97fe.jpg",
+   "reading": "13406",
+   "type": "TOMAS_STATIC"
+  },
+  {
+   "n": 30,
+   "filename": "e3fe3eb5-1bc9-44b6-9b9a-c531c94c46c0.jpg",
+   "reading": "1422",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 31,
+   "filename": "e4a07489-4b8c-4169-80bf-2db9b02c2426.jpg",
+   "reading": "1840",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 32,
+   "filename": "ee367351-be9d-4d96-9eeb-d0144a0cb7dd.jpg",
+   "reading": "4110",
+   "type": "TOMAS_STATIC"
+  },
+  {
+   "n": 33,
+   "filename": "f49724e4-763a-46f6-8a4e-b2f45a31350e.jpg",
+   "reading": "281",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 34,
+   "filename": "f64d947a-2291-4dbe-aebe-b6ba1fe13ff2.jpg",
+   "reading": "192",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 35,
+   "filename": "f6781bf6-dda0-4330-956e-8645016fa12d.jpg",
+   "reading": "1449",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 36,
+   "filename": "f9287773-0110-492d-9cd9-5f098ce40e54.jpg",
+   "reading": "3108",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 37,
+   "filename": "pending-0875e63c-f88c-4b3e-84d8-c03d54f6fe30-412130cc3f45156b16dd53e88796022697b796954db04eac3ba5341a6dd3d185.jpg",
+   "reading": "1416",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 38,
+   "filename": "pending-0b1db0a9-6e1b-5ba1-a88e-dc17b916f389-fe30c8c153f60f6056426a05eb74683b442196a0b3ffd93c71940b5d3b897974.jpg",
+   "reading": "2463",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 39,
+   "filename": "pending-1e2f41b3-9e18-4910-90c1-27cda398f676-6208ddb02f483adc8737d639af845a973c7419c1ae8387f9f4552eae7cc744a5.jpg",
+   "reading": "573",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 40,
+   "filename": "pending-23457efe-0e82-52e0-b45c-fa24f0f3ef70-14b21d0d347b553d58f7727999d7bd251307b6de186d90ee96cb9984b8d487a7.jpg",
+   "reading": "2691",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 41,
+   "filename": "pending-26240b07-37bf-506d-8881-459c712a2a0b-f242377f2afb66a37e89f1f7d30b0a928280e62b9602ff29e81edb80b7bb1d0d.jpg",
+   "reading": "2461",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 42,
+   "filename": "pending-27892ead-8e18-4bf1-a401-084fd368f986-b7d6deecc4886b5bf1d4d1d48e2aa3de21189a86414e054dbafec5b0525e2c99.jpg",
+   "reading": "2285",
+   "type": "TOMAS_SMART"
+  },
+  {
+   "n": 43,
+   "filename": "pending-2a069eab-b683-4fb3-8030-2f2ff98aa280-b9581b47492dbdd5aa2b9e8934f571384f351ab2fc96d6e8bb106d4b3bb3f726.jpg",
+   "reading": "1201",
+   "type": "TOMAS_SMART"
+  }
+ ]
+}
