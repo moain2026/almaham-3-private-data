@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-21 | `erp/photos/` | صور ERP مسمّاة (تدريب/تحقق) | 1757 ملف، 608M | erp/manifests/erp_photos.sha256 | وكيل |
 | 2026-10-21 | `erp/photos/` | صور ERP مسمّاة (تدريب/تحقق) | 1533 ملف، 538M | erp/manifests/erp_photos.sha256 | وكيل |
 | 2026-10-21 | `erp/photos/` | صور ERP مسمّاة (تدريب/تحقق) | 540 ملف، 165M | erp/manifests/erp_photos.sha256 | وكيل |
 | 2026-10-21 | `results_archive/ft5ploc_ft4a/` | ft5ploc_ft4a | 98 ملف، 756K | — | وكيل |
