@@ -1,0 +1,9 @@
+{
+ "ok": 351,
+ "fix_reader": 14,
+ "fix_cells": 16,
+ "dropped_reject": 60,
+ "dropped_notboxed": 19,
+ "dropped_reader_mismatch": 2,
+ "fix_fail": 0
+}
