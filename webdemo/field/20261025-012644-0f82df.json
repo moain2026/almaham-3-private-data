@@ -1,0 +1,1 @@
+{"reading": "232", "guess": "232", "gated": true, "g0": true, "tta": ["232", "232", "232", "232"], "min_conf": 0.517, "status": "OK", "raw": "232", "line_found": true, "line_score": 0.584, "ms": 807.8, "img_w": 3048, "img_h": 4064, "id": "20261025-012644-0f82df", "rect": null, "model": "dr1", "ts": 1792880804.1991746}
