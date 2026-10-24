@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-24 | `weights_archive/m4_dr1_s1/` | m4_dr1_s1 | 2 ملف، 944K | — | وكيل |
 | 2026-10-24 | `results_archive/loc_m4_s0_rd_dr1/` | loc_m4_s0_rd_dr1 | 98 ملف، 736K | — | وكيل |
 | 2026-10-24 | `logs_archive/loc_m4_s0_rd_dr1/` | loc_m4_s0_rd_dr1 | 1 ملف، 12K | — | وكيل |
 | 2026-10-24 | `weights_archive/loc_m4_s0_rd_dr1/` | loc_m4_s0_rd_dr1 | 1 ملف، 4.0K | — | وكيل |
