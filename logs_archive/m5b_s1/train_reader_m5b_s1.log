@@ -1,0 +1,17 @@
+argv ['erp_finetune.py', 'train', 'weights/reader_ft6m1_augv2.pt', '../data/erp/ft/m5b', '../data/synth/line_s1', '3000', 'weights/reader_m5b_s1.pt', 'reader'] threads 1 seed 1
+ignore_row False
+/home/user/webapp/lab/erp_finetune.py:233: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)
+  peaks, size, offs = model.forward_export(torch.from_numpy(im[None]).float())
+step 0 loss 0.947 real_val_exact 150/177 5s
+step 250 loss 1.179 real_val_exact 150/177 281s
+step 500 loss 1.176 real_val_exact 147/177 532s
+step 750 loss 1.134 real_val_exact 148/177 789s
+step 1000 loss 1.153 real_val_exact 149/177 1044s
+step 1250 loss 1.189 real_val_exact 150/177 1299s
+step 1500 loss 1.144 real_val_exact 150/177 1554s
+step 1750 loss 1.152 real_val_exact 150/177 1804s
+step 2000 loss 1.144 real_val_exact 152/177 2069s
+step 2250 loss 1.113 real_val_exact 152/177 2332s
+step 2500 loss 1.122 real_val_exact 148/177 2595s
+step 2750 loss 1.150 real_val_exact 151/177 2860s
+step 2999 loss 1.131 real_val_exact 149/177 3130s
