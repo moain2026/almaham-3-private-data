@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-24 | `results_archive/auto_loc_s129/` | auto_loc_s129 | 98 ملف، 732K | — | وكيل |
 | 2026-10-24 | `logs_archive/auto_loc_s129/` | auto_loc_s129 | 2 ملف، 12K | — | وكيل |
 | 2026-10-24 | `weights_archive/auto_loc_s129/` | auto_loc_s129 | 2 ملف، 944K | — | وكيل |
 | 2026-10-24 | `results_archive/ft6m3_s2/` | ft6m3_s2 | 98 ملف، 748K | — | وكيل |
