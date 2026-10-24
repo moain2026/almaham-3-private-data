@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-24 | `results_archive/auto_loc_s136/` | auto_loc_s136 | 98 ملف، 744K | — | وكيل |
 | 2026-10-24 | `logs_archive/auto_loc_s136/` | auto_loc_s136 | 2 ملف، 12K | — | وكيل |
 | 2026-10-24 | `weights_archive/auto_loc_s136/` | auto_loc_s136 | 2 ملف، 944K | — | وكيل |
 | 2026-10-24 | `results_archive/ens_dr1_s012/` | ens_dr1_s012 | 0 ملف، 4.0K | — | وكيل |
