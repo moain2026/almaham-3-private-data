@@ -1,0 +1,1 @@
+{"reading": "80", "status": "OK", "raw": "000080", "line_found": true, "line_score": 0.541, "ms": 119.4, "img_w": 3048, "img_h": 4064, "id": "20261021-085814-a89deb", "rect": null, "model": "augv2", "ts": 1792562294.0625644, "feedback": {"correct": true, "truth": "", "skip": false, "note": "عندما ضغطت على اقراء الشاشه بالكامل ظهرت صحيحه", "ts": 1792562328.5777135}}

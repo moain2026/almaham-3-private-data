@@ -1,0 +1,1 @@
+{"reading": "4829", "status": "OK", "raw": "004829", "line_found": true, "line_score": 0.642, "ms": 126.3, "img_w": 3048, "img_h": 4064, "id": "20261021-152121-a2a1cf", "rect": null, "model": "new", "ts": 1792585281.0514848, "feedback": {"correct": true, "truth": "", "skip": false, "note": "", "ts": 1792585333.0600984, "meter_type": "TOMAS_SMART", "screen_rect": null}}

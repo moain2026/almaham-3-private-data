@@ -1,0 +1,1 @@
+{"reading": "3155", "status": "OK", "raw": "003155", "line_found": true, "line_score": 0.784, "ms": 91.6, "img_w": 1080, "img_h": 2154, "id": "20261021-081432-3f1fc5", "rect": "0.3521,0.4283,0.6333,0.5312", "model": "augv2", "ts": 1792559672.6154902, "feedback": {"correct": true, "truth": "", "ts": 1792559681.8390439}}
