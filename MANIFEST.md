@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-24 | `weights_archive/m5_w2.0_c2_s0/` | m5_w2.0_c2_s0 | 2 ملف، 3.3M | — | وكيل |
 | 2026-10-24 | `results_archive/m4_w2.0_scratch_s0/` | m4_w2.0_scratch_s0 | 0 ملف، 4.0K | — | وكيل |
 | 2026-10-24 | `logs_archive/m4_w2.0_scratch_s0/` | m4_w2.0_scratch_s0 | 1 ملف، 8.0K | — | وكيل |
 | 2026-10-24 | `weights_archive/m4_w2.0_scratch_s0/` | m4_w2.0_scratch_s0 | 2 ملف، 3.3M | — | وكيل |
