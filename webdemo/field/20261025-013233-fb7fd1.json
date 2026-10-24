@@ -1,0 +1,1 @@
+{"reading": "", "guess": "32", "gated": false, "g0": false, "tta": [], "min_conf": 0.408, "status": "OK", "raw": "0032", "line_found": true, "line_score": 0.506, "ms": 112.7, "img_w": 3048, "img_h": 4064, "id": "20261025-013233-fb7fd1", "rect": null, "model": "dr1", "ts": 1792881153.3587923}
