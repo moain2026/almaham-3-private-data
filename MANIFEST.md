@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-24 | `results_archive/reader_m4/` | reader_m4 | 0 ملف، 4.0K | — | وكيل |
 | 2026-10-24 | `logs_archive/reader_m4/` | reader_m4 | 6 ملف، 36K | — | وكيل |
 | 2026-10-24 | `weights_archive/reader_m4/` | reader_m4 | 5 ملف، 6.1M | — | وكيل |
 | 2026-10-24 | `results_archive/m4_s/` | m4_s | 0 ملف، 4.0K | — | وكيل |
