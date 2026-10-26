@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-26 | `results_archive/auto_loc_s163/` | auto_loc_s163 | 98 ملف، 732K | — | وكيل |
 | 2026-10-26 | `logs_archive/auto_loc_s163/` | auto_loc_s163 | 2 ملف، 12K | — | وكيل |
 | 2026-10-26 | `weights_archive/auto_loc_s163/` | auto_loc_s163 | 2 ملف، 944K | — | وكيل |
 | 2026-10-26 | `results_archive/auto_loc_s162/` | auto_loc_s162 | 98 ملف، 740K | — | وكيل |
