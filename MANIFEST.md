@@ -2,6 +2,7 @@
 
 | التاريخ (UTC) | المسار | ما أُضيف | العدد / الحجم | sha256 / التحقق | بواسطة |
 |---|---|---|---|---|---|
+| 2026-10-27 | `weights_archive/auto_loc_s177/` | auto_loc_s177 | 2 ملف، 944K | — | وكيل |
 | 2026-10-27 | `results_archive/auto_loc_s176/` | auto_loc_s176 | 98 ملف، 736K | — | وكيل |
 | 2026-10-27 | `logs_archive/auto_loc_s176/` | auto_loc_s176 | 2 ملف، 12K | — | وكيل |
 | 2026-10-27 | `weights_archive/auto_loc_s176/` | auto_loc_s176 | 2 ملف، 944K | — | وكيل |
